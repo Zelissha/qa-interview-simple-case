@@ -56,3 +56,6 @@ npx playwright install
 
 > [!IMPORTANT]
 > We need to be able to review the assignment, so you have to make sure that the forked repo is public.
+
+#### Updates 6 Jully
+> In order to make the code reusable and clean I have implemented POM. When the code is expandent Util class can be added also the methods can be declared in Actions classes.
